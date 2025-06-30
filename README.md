@@ -63,7 +63,7 @@ chatbot/
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/your-username/terbot-chatbot.git
+git clone https://github.com/your-username/CHAT_SYS.git
 cd terbot-chatbot
 ```
 
@@ -85,7 +85,7 @@ chatbot.exe     # Windows
 ## 📦 How to Clone This Repository
 
 ```bash
-git clone https://github.com/your-username/terbot-chatbot.git
+git clone https://github.com/your-username/CHAT_SYS.git
 ```
 
 > Replace `your-username` with your actual GitHub username if you upload the project there.
