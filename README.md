@@ -1,22 +1,5 @@
 
-<div align="center">
-  <h1>TerBot - A Robust Terminal Chat System</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/khatoonintech/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  
 
-<sub>Author:
-<a href="https://www.linkedin.com/in/Khatoonintech/" target="_blank">Ayesha Noreen</a><br>
-<small> <i>#KhatoonInTech CE' 27 @BZU |Agentic AI & Automation Engr @ DevRolin | ByteWise Certified ML/DL Engineer|GSoC Contributor | SWEfellow: Confiniti. ,HeadStarterAI</i> </small>
-</sub>
-<br>
-<br>
-<br>
-
- ![portal ](../main/images/portal.png)
-
-</div>
 
 ---
 # 💬 TERBOT - Terminal-Based Chatbot System
@@ -197,34 +180,4 @@ USER_IDs,USER_NAMES,MESSAGES,TIMESTAMPS
 > Automatically created in `backup.csv`. Edited and managed by the `BackUp` class.
 
 ---
-## 🧑‍💻 Author
-
-Made with 💙 by **Ayesha Noreen**
-Computer Engineering, CPE-23--01
-Project Name: **TERBOT**
-
-**Tip**: If you wish to expand the system, consider:
-
-* Adding chat functionality between users.
-* Password protection for admin login.
-* Encrypting the backup file or switching to a database.
-
----
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
----
-
-<div align="center">
-<h3>For any query/help ,please contact our developer:</h3>  
-Developer : <a href="https://www.linkedin.com/in/Khatoonintech/" target="_blank">Ayesha Noreen</a><br>
-   <small> ByteWise Certified ML/DL Engineer|GSoC Contributor | SWEfellow: Confiniti. ,HeadStarterAI </small>
-<br> <a href="https://www.github.com/Khatoonintech/" target="_blank"> Don't forget to ⭐ our repo </a><br>
-
-
-</div>
 
